@@ -1,11 +1,11 @@
 # Formik JS
-simple example for formik js <br/>
+Simple example for formik js <br/>
 React Native v 0.62
 
 # Pluggin Installed
-- formik <br/>
+- Formik <br/>
 https://www.npmjs.com/package/formik
-- yum <br/>
+- Yum <br/>
 https://www.npmjs.com/package/yup
 
 # How To Run
